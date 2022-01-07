@@ -7,6 +7,6 @@
 - cmake07 如何编译静态库
 - install      头文件、库的安装目录
 
-
+每个目录下先手动创建build文件夹
 
 cmake -G "MinGW Makefiles" ..
