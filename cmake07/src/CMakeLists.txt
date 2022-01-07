@@ -1,6 +1,6 @@
-INCLUDE_DIRECTORIES(D:/study/cmake_use/install/include/hello)
+INCLUDE_DIRECTORIES(../../install/include/hello)
 
-LINK_DIRECTORIES(D:/study/cmake_use/install/lib)
+LINK_DIRECTORIES(../../../install/lib)
 
 #LINK_LIBRARIES(libhello.a)
 ADD_EXECUTABLE(main main.cpp)
